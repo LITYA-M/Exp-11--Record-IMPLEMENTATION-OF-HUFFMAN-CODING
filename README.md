@@ -33,7 +33,7 @@ Reg.no: 212225230152
 
 Get the input String
 ```
-input_string = "FRIENDS_FOREVER"
+input_string = "HI LITYA"
 ```
 Calculate frequency of each character in the input string
 
