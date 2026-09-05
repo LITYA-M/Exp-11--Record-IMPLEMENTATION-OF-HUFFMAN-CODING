@@ -88,7 +88,8 @@ for char, code in huffman_codes.items():
     print(f"    {char}    |    {code}")
 ```
 # Output:
-<img width="267" height="270" alt="image" src="https://github.com/user-attachments/assets/36d9260a-546a-4c37-8169-de125e8820ff" />
+<img width="276" height="201" alt="image" src="https://github.com/user-attachments/assets/6289ec64-98bf-40d4-a20a-800c13ef8f99" />
+
 
 
 # Result:
